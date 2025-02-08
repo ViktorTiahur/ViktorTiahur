@@ -23,7 +23,7 @@ I'm a proactive Junior Front-End Developer with a passion for creating stunning 
 - Ukrainian - Native
 - English - Elementary (A2)
 - Polish - Intermediate (B1)
-- 
+  
 ## Hobbies
 - 🏍️ Motorcycling
 - 🎣 Fishing
