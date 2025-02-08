@@ -4,7 +4,7 @@
 I'm a proactive Junior Front-End Developer with a passion for creating stunning web applications. I have experience in HTML, CSS, JavaScript, and React. I'm always eager to learn new technologies and improve my skills.
 
 - 🌍 From Ukraine
-- ✉️ Reach me at [victortiahur@gmail.com](mailto:victortiahur@gmail.com)
+- ✉️ Reach me at [xs555777@gmail.com](mailto:xs555777@gmail.com)
 - 💬 Ask me about web development, front-end technologies, and graphic design.
 - 📫 Connect with me on [LinkedIn](https://linkedin.com/in/viktortiahur)
 
@@ -17,8 +17,15 @@ I'm a proactive Junior Front-End Developer with a passion for creating stunning 
 
 ## Projects
 - [PuzzleKids](https://puzzlekids.netlify.app) - A puzzle game for children.
-- [LendingPage](https://ntktajhneyf.github.io/lendingpage) - A lending page for a freelance client.
+- [LendingPage](https://ntktajhneyf.github.io/lendingpage) - A lending page .
 
+## Languages
+- Ukrainian - Native
+- English - Elementary (A2)
+- Polish - Intermediate (B1)
+- 
 ## Hobbies
-- 📷 Photography
+- 🏍️ Motorcycling
+- 🎣 Fishing
+- 📚 Reading
 - 🌍 Traveling
